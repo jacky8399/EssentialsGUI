@@ -1,0 +1,7 @@
+name: EssentialsGUI
+version: @version@
+main: com.jacky8399.essentialsgui.EssentialsGUI
+api-version: 1.16
+depend: [ Essentials ]
+authors: [ jacky8399 ]
+description: fancy GUIs for EssentialsX commands
